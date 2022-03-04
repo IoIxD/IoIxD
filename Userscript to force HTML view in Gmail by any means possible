@@ -1,0 +1,17 @@
+// ==UserScript==
+// @name         Force Gmail to Basic HTML view
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Force the standard view in gmail, by any means possible.
+// @author       IoI_xD
+// @match        *://mail.google.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @grant       GM_addStyle
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    // google's shitty "standard layout" doesn't use traditional forms so this is most likely to be enough.
+    console.log(window.location.href);
+    document.querySelector('form .submit_as_link').click();
+})();
