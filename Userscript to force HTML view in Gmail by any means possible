@@ -12,6 +12,5 @@
 (function() {
     'use strict';
     // google's shitty "standard layout" doesn't use traditional forms so this is most likely to be enough.
-    console.log(window.location.href);
     document.querySelector('form .submit_as_link').click();
 })();
