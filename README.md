@@ -1,1 +1,1 @@
-# [https://ioi-xd.net](https://ioi-xd.net)
+# [My website gives a better bio then I ever could](https://ioi-xd.net)
