@@ -10,5 +10,3 @@
     </tr>
   </tbody>
 </table>
-
-<strong>More of my work can be seen in <a href="https://github.com/AwesomeSoftInc/">the AwesomewareInc organization</a></strong>. I also work on <strong><a href="https://github.com/raylib-rs">raylib-rs</a></strong>
