@@ -1,5 +1,3 @@
-Account for making PRs/working on other repos. Future repos that I own will be at [https://codeberg.org/IoIxD](https://codeberg.org/IoIxD). 
-
 <table align="center">
   <tbody>
     <tr>
