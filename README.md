@@ -10,5 +10,3 @@
     </tr>
   </tbody>
 </table>
-
-[Note that as of 2025 less of my own code is open source, and you may see decreaased public activity on this account.](https://ioi-xd.net/open_source)
