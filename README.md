@@ -10,3 +10,5 @@
     </tr>
   </tbody>
 </table>
+
+<a href="https://codeberg.org/IoIxD">Also on Codeberg</a>
