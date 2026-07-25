@@ -2,9 +2,9 @@
   <tbody>
     <tr>
       <td>
-        <img align="top" src='https://githubreadmecache.ioi-xd.net/api/top-langs/?username=IoIxD&hide=c,python&langs_count=5&' alt='Top Langs'></td>
+        <img align="top" src='https://github-stats-extended.vercel.app/api/top-langs/?username=IoIxD&hide=c,python&langs_count=5&' alt='Top Langs'></td>
       <td>
-        <img align="top" src='https://githubreadmecache.ioi-xd.net/api?username=IoIxD' alt='Github Stats'><br>
+        <img align="top" src='https://github-stats-extended.vercel.app/api?username=IoIxD' alt='Github Stats'><br>
         <a href="https://ioi-xd.net">See my website for a more proper description</a></td>
       </td>
     </tr>
